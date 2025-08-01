@@ -1,0 +1,144 @@
+.main{
+    /* border-style:solid;
+    border-color:red;
+    border-width:2px; */
+    /* border:2px solid red; */
+    /* height:500px; */
+    padding-left:70px;
+    border-bottom:0.5px solid rgb(225, 221, 221);
+    margin-left:130px;
+    /* margin-right:130px; */
+    width: 1100px;
+}
+.main2{
+    
+    display:inline-block;
+    /* border:2px solid red; */
+    width:250px;
+    padding-left:2px;
+    /* height:400px; */
+    vertical-align: top;
+
+    
+    
+}
+.main3{
+    display:inline-block;
+    /* border:2px solid red; */
+    width:250px;
+    /* height:400px; */
+    padding-left:10px;
+    vertical-align: top;
+}
+.main4{
+    display:inline-block;
+    /* border:2px solid red; */
+    width:250px;
+    /* height:400px; */
+    padding-left:10px;
+    vertical-align: top;
+}
+.main5{
+    display:inline-block;
+    /* border:2px solid red; */
+    width:250px;
+    /* height:400px; */
+    padding-left:10px;
+    vertical-align: top;
+}
+img{
+    width: 250px;
+}
+.div{
+    display: inline-block;
+    /* background-color: red; */
+    padding-left: 200px;
+    font-size: 25px
+}
+.head{
+    display: inline-block;
+    padding-left:450px;  
+}
+.head1{
+    display: inline-block;
+    padding-left:450px;
+}
+.head2{
+    padding-bottom: 40px;
+}
+.p{
+    padding-left:6% ;
+}
+.p1{
+    padding-left: 6%;
+}
+.p2{
+    padding-left:18% ;
+    padding-bottom: 100px;
+   
+}
+.middle{
+    /* border:2px solid red; */
+     border-bottom:0.5px solid rgb(225, 221, 221);
+     margin-left: 130px;
+     margin-right: 130px;
+     padding-top: 70px;
+}
+.footer{
+    /* border:2px solid red; */
+    width:350px;
+    
+    display: inline-block;
+    vertical-align: top;
+}
+.footer1{
+    display: inline-block;
+    /* border:2px solid red; */
+    width:350px;
+    padding-left: 60px;
+    
+    
+
+}
+.lorem{
+    display: inline-block;
+    /* border:2px solid red; */
+    width:200px;
+    padding-left: 10px;
+    /* vertical-align: top; */
+
+    
+}
+.footer2{
+    /* border:2px solid red; */
+    width:1500px;
+    margin-left: 130px;
+    vertical-align: top;
+}
+.footer3{
+    display: inline-block;
+    /* border:2px solid red; */
+    vertical-align: top;
+    margin-left:100px;
+}
+.tags{
+    background-color: grey;
+    color:white;
+    padding-right: 10px;
+}
+.tag1{
+    background-color: black;
+    color:white;
+    padding-right: 10px;
+}
+.inter{
+    display: inline-block;
+   
+}
+.laugh{
+    /* border:2px solid red; */
+    padding-left: 60px;
+}
+.para{
+    padding-left: 450px;
+}

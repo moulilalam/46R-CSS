@@ -1,0 +1,29 @@
+Box MODEL IN CSS
+================
+everything in css should be consider in box model
+
+->content
+  ->width,height
+
+->padding
+  padding-top
+  padding-bottom
+  padding-right
+  padding-left
+  padding:100px -> for all paddings
+  padding:100px 10px 50px 60px;(clockwise)
+
+->border
+  border-style(solid,dot)
+  border-width
+  border-color
+  border-top-style(left,top,right,bottom)
+  border-top-width(left,top,right,bottom)
+  border:2px solid yellow;
+
+->margin
+  margin-top
+  margin-bottom
+  margin-right
+  margin-left
+  margin:100px  -> for all margins
