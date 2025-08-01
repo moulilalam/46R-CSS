@@ -142,3 +142,13 @@ img{
 .para{
     padding-left: 450px;
 }
+.last{
+    padding-left: 200px;
+    /* border:2px solid red; */
+}
+.last1{
+    padding-left: 300px;
+}
+.last2{
+    padding-left: 250px;
+}
